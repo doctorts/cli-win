@@ -1,0 +1,20 @@
+{
+  "name": "@doctorts/cli-win",
+  "version": "1.0.0",
+  "description": "DoctorTS framework CLI for linux",
+  "main": "doctor",
+  "bin": {
+    "doctor": "doctor.exe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorts/cli-win.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctorts/cli-win/issues"
+  },
+  "homepage": "https://github.com/doctorts/cli-win#readme"
+}
