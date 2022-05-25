@@ -5,7 +5,7 @@
 ## How to get the CLI?
 
 ```shell
-npm install -g @doctor/cli-win
+npm install -g @doctorts/cli-win
 ```
 
 <br/>
@@ -17,7 +17,7 @@ npm install -g @doctor/cli-win
 ### The CLI has a "help" command to help you find what you want!
 
 ```shell
-doctor.exe --help
+doctor --help
 ```
 
 <br/>
@@ -29,7 +29,7 @@ doctor.exe --help
 ### The "new" command is used to generate a new project!
 
 ```shell
-doctor.exe new project
+doctor new project
 ```
 
 <br/>
@@ -49,7 +49,7 @@ doctor.exe new project
 - One of which is the "command" option, which is used to generate a new pre-shaped command file for your bot!
 
 ```shell
-doctor.exe generate command command_name
+doctor generate command command_name
 ```
 
 <img src="./img/generate-command-and-tree.png">
@@ -59,7 +59,7 @@ doctor.exe generate command command_name
 - The other is the "customize" command, which will generate a folder and a file for customizing decorators!
 
 ```shell
-doctor.exe generate customize command_name
+doctor generate customize command_name
 ```
 
 <img src="./img/customize-command-and-tree.png" />
